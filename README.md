@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Yernar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yernar&hide=contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yernar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yernar&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 

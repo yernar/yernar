@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning computer graphics & various rendering techniques
 - 💬 Ask me about C++, hardware, math & computer graphics
 - 📫 How to reach me: yernar.aa@gmail.com
+
+Take a look at my 2020's Github Contribution [3D City](https://github.com/yernar/yernar/blob/main/yernar-2020.stl)

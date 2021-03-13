@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++, hardware, math & computer graphics
 - 📫 How to reach me: [mail](yernar.aa@gmail.com) or [linkedin](https://www.linkedin.com/in/yernaraldabergenov/)
 
-Take a look at my 2020's Github Contribution [3D City Visualization](https://github.com/yernar/yernar/blob/main/yernar-2020.stl)
+My 2020's Github Contribution [3D City](https://github.com/yernar/yernar/blob/main/yernar-2020.stl)

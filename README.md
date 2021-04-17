@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on [Graphics Engine](https://github.com/yernar/IronwareEngine)
 - 🌱 I’m currently learning computer graphics & various rendering techniques
 - 💬 Ask me about C++, hardware, math and computer graphics
-- 📫 How to reach me: [mail](yernar.aa@gmail.com) or [linkedin](https://www.linkedin.com/in/yernaraldabergenov/)
+- 📫 How to reach me: [mail](mailto:yernar.aa@gmail.com) or [linkedin](https://www.linkedin.com/in/yernaraldabergenov/)
 
 My 2020's Github Contribution [3D City](https://github.com/yernar/yernar/blob/main/yernar-2020.stl)
